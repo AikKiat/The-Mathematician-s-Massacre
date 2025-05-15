@@ -32,7 +32,3 @@ https://github.com/user-attachments/assets/0129119e-6271-43e7-94d4-90fc0f5634d8
 </ul>
 
  <img src="https://github.com/user-attachments/assets/618a217b-f53a-4a08-918b-33353833bdc1" style= "width:5rem; height:5rem"> <img src="https://github.com/user-attachments/assets/2d666693-088c-413a-b65e-a0d8e3df3842" style = "width:6rem; height:3rem"> 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
